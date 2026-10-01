@@ -15,7 +15,7 @@ if (loginForm) {
         }
 
         if (usuario === "") {
-            mensagemErro.textContent = "Preencha o usuário.";
+            mensagemErro.textContent = "por favor preencha o usuário.";
             return;
         }
 
