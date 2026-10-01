@@ -20,7 +20,7 @@ if (loginForm) {
         }
 
         if (senha === "") {
-            mensagemErro.textContent = "Preencha a senha.";
+            mensagemErro.textContent = "por favor preencha a senha.";
             return;
         }
 
